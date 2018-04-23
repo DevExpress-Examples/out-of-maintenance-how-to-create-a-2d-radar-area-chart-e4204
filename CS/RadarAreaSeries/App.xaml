@@ -1,0 +1,7 @@
+﻿<Application xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             x:Class="RadarAreaSeries.App" xmlns:my="clr-namespace:System;assembly=mscorlib">
+    <Application.Resources>
+    <my:String x:Key="DevExpress.Xpf.License">B7-5B-AA-34-D2-96-63-1F-49-66-B7-55-91-03-B7-43-C0-66-0A-17</my:String>
+  </Application.Resources>
+</Application>
